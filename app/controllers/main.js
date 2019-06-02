@@ -1,8 +1,14 @@
 function test(){}
 function taobranch(params) {
     
-}
+
 function gittimkiem(params) {
+    console.log('object')
+}
+function testloi(params) {
+    
+}
+function testdemo(params) {
     
 }
 function testdemo(){
