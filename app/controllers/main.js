@@ -2,6 +2,9 @@ function test(){}
 function taobranch(params) {
     
 }
+function gittimkiem(params) {
+    
+}
 $(document).ready(function () {
     var danhSachNguoiDung = new DanhSachNguoiDung();
     var validation = new Validation();
