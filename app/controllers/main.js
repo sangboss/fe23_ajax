@@ -1,3 +1,4 @@
+function test(){}
 $(document).ready(function () {
     var danhSachNguoiDung = new DanhSachNguoiDung();
     var validation = new Validation();
