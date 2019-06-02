@@ -5,6 +5,9 @@ function taobranch(params) {
 function gittimkiem(params) {
     
 }
+function testdemo(){
+    
+}
 $(document).ready(function () {
     var danhSachNguoiDung = new DanhSachNguoiDung();
     var validation = new Validation();
