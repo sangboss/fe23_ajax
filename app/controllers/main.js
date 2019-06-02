@@ -3,7 +3,7 @@ function taobranch(params) {
     
 }
 function gittimkiem(params) {
-    
+    console.log('object')
 }
 $(document).ready(function () {
     var danhSachNguoiDung = new DanhSachNguoiDung();
