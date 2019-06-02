@@ -8,6 +8,9 @@ function gittimkiem(params) {
 function testloi(params) {
     
 }
+function error(params) {
+    
+}
 $(document).ready(function () {
     var danhSachNguoiDung = new DanhSachNguoiDung();
     var validation = new Validation();
